@@ -1,15 +1,10 @@
 # flutter_timer
 
-A new Flutter application.
+A timer demo by flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![333.gif](http://ww1.sinaimg.cn/large/9c347cably1g9v7d1rfk7g20ar0jwgn0.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
